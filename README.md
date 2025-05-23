@@ -1,4 +1,3 @@
-
 # Call of Duty Player Stats Analysis in R
 
 This project analyzes a sample dataset of player performance statistics from a fictional Call of Duty-style game using R. It demonstrates basic data manipulation, visualization, and linear regression modeling.
